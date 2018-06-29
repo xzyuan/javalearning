@@ -1,5 +1,5 @@
 package designmode;
-
+//单例模式
 class Single{
     public static Single instance = new Single();
 
